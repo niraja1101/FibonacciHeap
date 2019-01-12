@@ -1,0 +1,271 @@
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+$niraja 1000
+$apple 650
+$mango 100
+2
+$pear 200
+$apple 445
+$mango 300
+2
+3
+$niraja 100
+$apple 100
+$mango 450
+$pear 100
+$apple 656
+4
+$mango 450
+$watermelon 5000
+3
+stop
